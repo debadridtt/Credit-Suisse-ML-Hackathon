@@ -35,3 +35,5 @@ Rate of Price Change (30, 40, 50 Days)
 Rate of Volume Change (30, 40, 50 Days)
 William % R (30, 40, 50 Days)
 Participants are free to transform and derive more features from the above set of indicators from short term as well as long term perspective.
+
+![Capture](https://user-images.githubusercontent.com/24243687/57059309-59616d80-6cd2-11e9-98dd-3d5f60cbea6b.PNG)
