@@ -1,4 +1,9 @@
 # Credit-Suisse-ML-Hackathon
+
+Result (Online Round): 
+
+![Capture](https://user-images.githubusercontent.com/24243687/57059309-59616d80-6cd2-11e9-98dd-3d5f60cbea6b.PNG)
+
 Explanatory Stock Price Predictions
 
 Stock markets have always been a fancy for companies, investors and traders. There is a plethora of investors investing or exiting the stocks at any point of time with different trading strategies and investment horizons. However the underlying objective of every type of investor is common "Maximize the returns and minimize the losses." To achieve this objective every investor is intrigued with one question “Is my stock price going to rise or fall in future".
@@ -36,4 +41,4 @@ Rate of Volume Change (30, 40, 50 Days)
 William % R (30, 40, 50 Days)
 Participants are free to transform and derive more features from the above set of indicators from short term as well as long term perspective.
 
-![Capture](https://user-images.githubusercontent.com/24243687/57059309-59616d80-6cd2-11e9-98dd-3d5f60cbea6b.PNG)
+
